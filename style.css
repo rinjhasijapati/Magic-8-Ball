@@ -1,0 +1,50 @@
+body{
+    background-color:darkseagreen;
+}
+
+h1{
+    position:relative;
+    top: 0px;
+    left: 630px;
+    font-size: 40px;
+    color:white;
+}
+
+p{
+    position:relative;
+    top: 200px;
+    left: 1000px;
+    font-size: 20px;
+    color:white;
+}
+
+.image{
+    position: relative;
+    left: 250px;
+}
+
+ .tasks{
+    position: relative;
+    top: 10px;
+    left: 580px;
+} 
+
+button{
+    position: relative;
+    top: 10px;
+    left: 600px;
+    width: 60px;
+    height: 30px;
+    outline: none;
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid black;
+}
+
+button:hover{
+    cursor: pointer;
+    background-color:lightcoral;
+    border: 1px solid #fff;
+    color: #fff;
+}
+
